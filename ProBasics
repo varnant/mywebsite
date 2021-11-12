@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Protocols</title>
+</head>
+<body>
+    <h1>What are Protocols ??</h1>
+    <p>The developer tools usually open by default to the inspector, which looks something like the following screenshot.<br> This tool shows what the HTML on your page looks like at runtime, as well as what CSS is applied to each element on the page.<br> It also allows you to instantly modify the HTML and CSS and see the results of your changes reflected live in the browser viewport.</p>
+</body>
+</html>
