@@ -1,3 +1,3 @@
 this is an attempt to create a website, a staic one # mywebsite
 to create a website as a team 
-dharsahn sathish roshan arun ranjith abinash mouriya anoop updated
+dharsahn sathish roshan arun ranjith abinash sudirdaniel mouriya anoop updated
